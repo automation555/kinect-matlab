@@ -1,7 +1,7 @@
 Readme
 =============
 
-This project consists of a modified Matlab Kinect interface to work with the latest Microsoft Kinect SDK (v1.5). The original Kinect wrappers were developed by Dirk-Jan Kroon.
+This project consists of a modified Matlab Kinect interface to work with the latest Microsoft Kinect SDK (v1.5). The original Kinect wrappers were developed by [Dirk-Jan Kroon](http://www.mathworks.com/matlabcentral/fileexchange/33035).
 
 Robert Tang <opensource@robotang.co.nz>
 
@@ -10,7 +10,7 @@ Dependencies
 
 The following downloads are required:
 
-* [Visual Studio C++](ttp://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-cpp-express)
+* [Visual Studio C++](http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-cpp-express)
 * [Kinect SDK v 1.5](http://www.microsoft.com/en-us/kinectforwindows/develop/developer-downloads.aspx)
 * [Kinect Developer Toolkit v1.5.2](http://www.microsoft.com/en-us/kinectforwindows/develop/developer-downloads.aspx)
 
