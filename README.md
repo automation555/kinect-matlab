@@ -35,4 +35,4 @@ in the Matlab console. Select the appropriate compiler, and run
     
 Happy hacking!
 
-NB: I have yet to fix the Kinect audio wrappers
+NB: I have yet to fix the Kinect audio wrappers (and unsure when I will get around to that!)
